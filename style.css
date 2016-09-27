@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://safiyahesack.files.wordpress.com/2013/03/big-wave-surfing-wallpapers-1920x1080.jpg");
+  color : hotpink;
+  font-family: "Qwigley";
+}
+h1, h2 {
+  text-align: center;
+  font-family: "Audiowide";
+}
+img {
+  margin: 25px;
+  float: left;
+  width: 200px;
+}
+h3 {
+
+}
